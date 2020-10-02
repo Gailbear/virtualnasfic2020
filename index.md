@@ -8,6 +8,32 @@ order: 1
 ---
 {% include full_width_image.html filename="Columbus-NASFIC-2020_landing_image.png" height="50rem" %}
 
+### And That's a Wrap!
+
+Thank you all for coming.  This was fun and felt like a family reunion for many of us.  MUCH NEEDED during the extended quarantine conditions we are still operating under.
+
+Make sure you get your take-home items!  If you have not yet picked up a copy of the **Souvenir Book**, [here it is](https://columbus2020nasfic.org/assets/pdfs/Columbus%20NASFIC%202020%20Souvenir%20Book.pdf "2020 NASFiC Souvenir Book").
+
+And don't forget your [2020 NASFiC convention T-Shirt](https://www.offworlddesigns.com/columbus-in-2020-nasfic-t-shirt/ "Get yer t-shirt here!")! Available for just $22 from OffWorld Designs.
+
+Some of our [Art Show](https://columbus2020nasfic.org/art-show-at-con.html "Go shop at the Art Show!") artists also contributed to a [**Coloring Book**](https://drive.google.com/file/d/1c4gS6glElVCvfNIgQmGISsp6V5YnAeQs/view?usp=sharing "You like to color?") to help you through the rest of the pandemic.
+
+There are still lots of great deals in the [Dealer's Room](https://columbus2020nasfic.org/dealers-at-con.html "Dealer's Room")! You don't even have to haul your loot into the car to get it home!
+
+Finally, make sure you take advantage of the chance to buy a "Virtually" autographed book (or many!) at the [2020 NASFiC program participants' book "shelf"](https://www.author-author.net/products/category/950 "2020 NASFiC Signed Books") of the **Author, Author!** book store.  All signed books will feature a custom 2020 NASFiC Bookplate, with art by Artist Guest of Honor Stephanie Law.
+
+Books can be purchased through that site from now through September 10, 2020.
+
+The Columbus NASFiC Discord will stay open for a while, and you are welcome to stroll through the other program rooms and times to see the "writing on the wall" of all the program item conversations.
+
+As for seeing the _programming_ that you missed, we hope that will be possible as well, but we have to check the quality of the recordings and do a bunch of video editing to get ready to re-run those talks and panels. Watch our social media, and _this space right here_ for updates on that later this week.
+
+As always, volunteers made the convention happen: we could NOT have done it without you, and we really appreciate all the time people put in to make it so, not just over the weekend, but also meeting up virtually beforehand to get trained on this new way of doing things.
+
+Thanks again, and we'll see you at the Dead Dog Party!
+
+\--The Virtual 2020 Columbus NASFiC Concom and Crew
+
 ### 8/21/2020
 
 (...slightly past Midnight...)
@@ -26,9 +52,9 @@ Links to the available Kaffeeklatsches can be found in the Guest of Honor profil
 
 You can also find those links and other important news on the # Announcements channel at the # INFO DESK on Discord. If you have news you want to share with the rest of us, you can post it there, and also be sure to drop it off at # newsletter-submissions so Newsletter Editor Tammy Coxen can run it in [NASFiC News](https://columbus2020nasfic.org/NASFiCnews.html "Newsletter").
 
-Tomorrow we will post the grand announcement of how to "attend" our Virtual Mass Autographing Session from 5-8 PM in the (infinitely large)  # consuite (and for two weeks via our internet bookseller), and of course there will also be the exciting reveal and showcase of the Chesley Award Nominees.
+Tomorrow we will post the grand announcement of how to "attend" our Virtual Mass Autographing Session at 12:00 PM on Sunday in the (infinitely large)  # consuite (and for two weeks via our internet bookseller), and of course there will also be the exciting reveal and showcase of the Chesley Award Nominees.
 
-And in case you were wondering WHAT to do with yourself between or after the Saturday night NASFiC parties, there is now the option of attending the popular time-traveling book review show [Galactic Journey](http://galacticjourney.org/ "website"), on stage in the Auditorium at 9 PM Saturday night!
+And in case you were wondering WHAT to do with yourself between or after the Saturday night NASFiC parties, there is now the option of attending the popular time-traveling book review show Galactic Journey, on stage in the Auditorium at 9 PM Saturday night!
 
 Good night, sleep tight, and we'll see you in the morning.
 
